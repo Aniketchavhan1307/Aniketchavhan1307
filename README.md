@@ -4,17 +4,24 @@
 </div>
     
 ---
-    
-<img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/Aniketchavhan1307/Aniketchavhan1307/main/coding.gif">
 
-### 🌟 About Me
 
-- 🎓 **Bachelor's Degree** in Computer Science from Savitribai Phule Pune University.
-- 💻 **Software Engineer Intern** at Test Yantra Pvt Ltd, specializing in Java-based web applications and RESTful APIs.
-- 🔑 Proficient in **Java**, **Spring Boot**, **React**, **Hibernate**, and **SQL**.
-- 🌐 Passionate about **Cloud Computing**, **Secure APIs**, and **Responsive Design**.
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img align="right" alt="coding" width="300" height="200" src="https://raw.githubusercontent.com/Aniketchavhan1307/Aniketchavhan1307/main/coding.gif">
+  <div style="max-width: 600px; text-align: left;">
+    <h3>🌟 About Me</h3>
+    <ul>
+      <li>🎓 <strong>Bachelor's Degree</strong> in Computer Science from Savitribai Phule Pune University.</li>
+      <li>💻 <strong>Software Engineer Intern</strong> at Test Yantra Pvt Ltd, specializing in Java-based web applications and RESTful APIs.</li>
+      <li>🔑 Proficient in <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>React</strong>, <strong>Hibernate</strong>, and <strong>SQL</strong>.</li>
+      <li>🌐 Passionate about <strong>Cloud Computing</strong>, <strong>Secure APIs</strong>, and <strong>Responsive Design</strong>.</li>
+    </ul>
+  </div>
+</div>
+
 
 ---
+
 
 ### 💼 Skills
 
