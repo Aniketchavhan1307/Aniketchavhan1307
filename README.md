@@ -2,10 +2,10 @@
   <h1>Hi there, I'm Aniket Chavhan! 👋</h1>
   <h3>🚀 Software Engineer | Problem-Solver 
 </div>
-
+    
 ---
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Aniketchavhan1307/Aniketchavhan1307/main/coding.gif">
-
+    
+<img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/Aniketchavhan1307/Aniketchavhan1307/main/coding.gif">
 
 ### 🌟 About Me
 
