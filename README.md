@@ -4,6 +4,8 @@
 </div>
 
 ---
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Aniketchavhan1307/Aniketchavhan1307/main/coding.gif">
+
 
 ### 🌟 About Me
 
