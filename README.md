@@ -7,7 +7,7 @@
 
 
 <div style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img align="right" alt="coding" width="300" height="200" src="https://raw.githubusercontent.com/Aniketchavhan1307/Aniketchavhan1307/main/coding.gif">
+  <img align="right" alt="coding" width="350" height="300" src="https://raw.githubusercontent.com/Aniketchavhan1307/Aniketchavhan1307/main/coding.gif">
   <div style="max-width: 600px; text-align: left;">
     <h3>🌟 About Me</h3>
     <ul>
@@ -18,6 +18,18 @@
     </ul>
   </div>
 </div>
+
+
+
+<div style="width: 300px; padding: 20px; background: #f7f7f7; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <h3 style="text-align: center;">🎓 Education</h3>
+    <p><strong>Bachelor's Degree in Computer Science</strong></p>
+    <p>📚 <strong> University </strong> : Savitribai Phule Pune University </p>
+    <p>📅 <strong> Year </strong> : Graduation in 2024</p>
+    <p>📖 <strong> Key Subjects </strong> : Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems</p>
+  </div>
+
+
 
 
 ---
