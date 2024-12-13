@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Aniket Chavhan! 👋</h1>
-  <h3>🚀 Software Engineer | Problem-Solver | Tech Enthusiast</h3>
+  <h3>🚀 Software Engineer | Problem-Solver 
 </div>
 
 ---
