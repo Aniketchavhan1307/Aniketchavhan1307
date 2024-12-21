@@ -30,8 +30,6 @@
   </div>
 
 
-
-
 ---
 
 
@@ -74,7 +72,7 @@ A scalable platform for video uploading and seamless streaming:
 #### **Searchable Encryption System** 🔒
 A secure cloud-based solution for multi-keyword search:
 - **Technologies**: ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![JSP](https://img.shields.io/badge/-JSP-323330?logo=java&logoColor=white)
-- **Impact**: Elevates data security and integrity in cloud environments.
+- **Impact**: Elevates data security and integrity in cloud environments...
 - **Repository**: [Encryption System Project](https://github.com/Aniketchavhan1307/encryption-system)
 
 ---
