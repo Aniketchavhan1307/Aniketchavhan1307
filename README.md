@@ -55,28 +55,6 @@
 ---
 
 
-### 💼 Key Projects
-
-#### **Smart Contract Manager (SCM)** 🌐
-A full-stack application designed for efficient contract and contact management:
-- **Technologies**: ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
-- **Highlights**: Secure OAuth authentication, responsive UI, and seamless file integration.
-- **Repository**: [Smart Contract Manager](https://github.com/Aniketchavhan1307/scm-project)
-
-#### **Video Streaming Platform** 🎥
-A scalable platform for video uploading and seamless streaming:
-- **Technologies**: ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring&logoColor=white) ![FFmpeg](https://img.shields.io/badge/-FFmpeg-007808?logo=ffmpeg&logoColor=white)
-- **Features**: Adaptive streaming and intuitive design.
-- **Repository**: [Video Streaming Project](https://github.com/Aniketchavhan1307/video-streaming-project)
-
-#### **Searchable Encryption System** 🔒
-A secure cloud-based solution for multi-keyword search:
-- **Technologies**: ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![JSP](https://img.shields.io/badge/-JSP-323330?logo=java&logoColor=white)
-- **Impact**: Elevates data security and integrity in cloud environments...
-- **Repository**: [Encryption System Project](https://github.com/Aniketchavhan1307/encryption-system)
-
----
-
 
 ### 📫 Let's Connect!
 
