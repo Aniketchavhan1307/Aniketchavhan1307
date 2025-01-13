@@ -21,7 +21,7 @@
 
 
 
-<div style="width: 300px; padding: 20px; background: #f7f7f7; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<div style="width: 300px; padding: 20px; background: #f7f7f7; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
     <h3 style="text-align: center;">🎓 Education</h3>
     <p><strong>Bachelor's Degree in Computer Science</strong></p>
     <p>📚 <strong> University </strong> : Savitribai Phule Pune University </p>
