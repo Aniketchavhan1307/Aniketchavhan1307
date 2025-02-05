@@ -11,20 +11,30 @@ jobs:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write  # Ensure the action has write permissions
+      contents: write  # Ensures that the action has write permissions
 
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
+      - name: Set up Node.js (to support the GitHub Action)
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'  # Specify Node.js version
+
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
           github_user_name: Aniketchavhan1307  # Replace with your GitHub username
-          outputs: dist/github-contribution-grid-snake.svg  # Path to the output file
+          outputs: dist/github-contribution-grid-snake.svg  # Path to output file
+
+      - name: Debug Step (Check Contents)
+        run: |
+          echo "Contents of the repository:"
+          ls -la
 
       - name: Upload Snake Animation to GitHub
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v2  # Updated version
         with:
           name: github-contribution-grid-snake
-          path: dist/github-contribution-grid-snake.svg  # Path to the generated file
+          path: dist/github-contribution-grid-snake.svg  # Path to generated file
