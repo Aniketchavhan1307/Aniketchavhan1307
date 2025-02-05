@@ -34,7 +34,7 @@ jobs:
           ls -la
 
       - name: Upload Snake Animation to GitHub
-        uses: actions/upload-artifact@v2  # Updated version
+        uses: actions/upload-artifact@v2 # Use the GitHub official action
         with:
           name: github-contribution-grid-snake
           path: dist/github-contribution-grid-snake.svg  # Path to generated file
