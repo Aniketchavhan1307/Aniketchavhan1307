@@ -3,31 +3,12 @@
   <h3>🚀 Software Engineer | Problem-Solver 
 </div>
     
----
-
-
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img align="right" alt="coding" width="350" height="300" src="https://raw.githubusercontent.com/Aniketchavhan1307/Aniketchavhan1307/main/coding.gif">
-  <div style="max-width: 600px; text-align: left;">
-    <h3>🌟 About Me</h3>
-    <ul>
-      <li>🎓 <strong>Bachelor's Degree</strong> in Computer Science from Savitribai Phule Pune University.</li>
-      <li>💻 <strong>Software Engineer Intern</strong> at Test Yantra Pvt Ltd, specializing in Java-based web applications and RESTful APIs.</li>
-      <li>🔑 Proficient in <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>React</strong>, <strong>Hibernate</strong>, and <strong>SQL</strong>.</li>
-      <li>🌐 Passionate about <strong>Cloud Computing</strong>, <strong>Secure APIs</strong>, and <strong>Responsive Design</strong>.</li>
-    </ul>
-  </div>
-</div>
 
 
 
-<div style="width: 300px; padding: 20px; background: #f7f7f7; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-    <h3 style="text-align: center;">🎓 Education</h3>
-    <p><strong>Bachelor's Degree in Computer Science</strong></p>
-    <p>📚 <strong> University </strong> : Savitribai Phule Pune University </p>
-    <p>📅 <strong> Year </strong> : Graduation in 2024</p>
-    <p>📖 <strong> Key Subjects </strong> : Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems</p>
-  </div>
+
+  <img align="right" alt="coding" width="250" height="200" src="https://raw.githubusercontent.com/Aniketchavhan1307/Aniketchavhan1307/main/coding.gif">
+ 
 
 
 ---
@@ -62,13 +43,6 @@
 
 ---
 
-
-### 📫 Let's Connect!
-
-- **LinkedIn:** [Aniket Chavhan](https://www.linkedin.com/in/aniket-chavhan-255978270/)
-- **GitHub:** [Aniketchavhan1307](https://github.com/Aniketchavhan1307)
-
----
 
 ### ⚡ Fun Fact
 I enjoy coding challenges, learning new programming languages, and experimenting with **machine learning** algorithms.
