@@ -3,13 +3,7 @@
   <h3>🚀 Software Engineer | Problem-Solver 
 </div>
     
-
-
-
-
   <img align="right" alt="coding" width="250" height="200" src="https://raw.githubusercontent.com/Aniketchavhan1307/Aniketchavhan1307/main/coding.gif">
- 
-
 
 ---
 
@@ -27,23 +21,25 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Aniket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aniketchavhan1307&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketchavhan1307&layout=compact&theme=radical)](https://github.com/Aniketchavhan1307)
-
----
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aniketchavhan1307/Aniketchavhan1307/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aniketchavhan1307/Aniketchavhan1307/output/github-snake.svg" />
   <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/Aniketchavhan1307/Aniketchavhan1307/output/github-snake.svg" />
 </picture>
 
+---
 
+### 📊 GitHub Stats
+
+
+  ![Aniket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aniketchavhan1307&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketchavhan1307&layout=compact&theme=radical)](https://github.com/Aniketchavhan1307)
 
 
 ---
+
+
 
 
 ### ⚡ Fun Fact
